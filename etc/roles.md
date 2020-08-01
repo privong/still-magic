@@ -55,7 +55,7 @@ keypoints:
 -   Use `ALL_CAPS_WITH_UNDERSCORES` for constants (which should be placed at the top of the file)
 -   Use `lower_case_with_underscores` for function and variable names
     -   Only use `CamelCase` for types and classes, which are outside the scope of this lesson
--   Use two blank links between each function
+-   Use two blank lines between each function
 -   Avoid abbreviations (which can be hard for non-native speakers to understand)
     -   A good programming editor will auto-complete names, so you don't have to do much typing
 -   However, short variable names for temporaries and loop variables are OK [[Beni2017](#CITE)]
